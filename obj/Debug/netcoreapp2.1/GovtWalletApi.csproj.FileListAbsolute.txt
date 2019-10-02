@@ -1,0 +1,14 @@
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\bin\Debug\netcoreapp2.1\GovtWalletApi.deps.json
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\bin\Debug\netcoreapp2.1\GovtWalletApi.runtimeconfig.json
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\bin\Debug\netcoreapp2.1\GovtWalletApi.runtimeconfig.dev.json
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\bin\Debug\netcoreapp2.1\GovtWalletApi.dll
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\bin\Debug\netcoreapp2.1\GovtWalletApi.pdb
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.csprojAssemblyReference.cache
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.csproj.CoreCompileInputs.cache
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.RazorAssemblyInfo.cache
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.RazorAssemblyInfo.cs
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.AssemblyInfoInputs.cache
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.AssemblyInfo.cs
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.RazorTargetAssemblyInfo.cache
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.dll
+C:\Users\anil.vebilisetty\source\repos\GovtWalletApi\GovtWalletApi\obj\Debug\netcoreapp2.1\GovtWalletApi.pdb
