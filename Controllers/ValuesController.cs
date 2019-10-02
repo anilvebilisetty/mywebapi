@@ -32,7 +32,7 @@ namespace GovtWalletApi.Controllers
                 
                 result.Add(PlanName);
             }
-            string str = "new brach";
+            string str1 = "new brach cahnges";
             return result;
 
         }
@@ -55,6 +55,7 @@ namespace GovtWalletApi.Controllers
                 plan.RemainingBudget = int.Parse(adp["RemainingBudget"].ToString());
                 result.Add(plan);
             }
+            string str1 = "new brach cahnges";
             return result;
 
         }
