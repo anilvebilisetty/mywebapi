@@ -32,9 +32,8 @@ namespace GovtWalletApi.Controllers
                 
                 result.Add(PlanName);
             }
-            string str = "new brach";
+            string str = "master branch cahnge";
             return result;
-            string str = "string in master";
         }
 
         [HttpGet]
